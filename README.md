@@ -31,6 +31,9 @@
 * BIOS Version: M1AKT51A
 * Disable: CSM
 
+### Screenshots:
+![About This Mac](https://raw.githubusercontent.com/dheiro/Lenovo-M710Q-QTJ1-Hackintosh/main/Screenshots/about-this-mac.png)
+
 ## Credits
 - [Apple](https://apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for OpenCore bootloader
