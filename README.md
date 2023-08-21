@@ -1,0 +1,1 @@
+# Lenovo-M710Q-QTJ1-Hackintosh
