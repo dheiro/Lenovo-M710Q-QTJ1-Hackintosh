@@ -26,6 +26,7 @@
 
 ### What Not Works:
 - [x] Sleep & Wake
+- [x] DRM
 
 ### BIOS Settings:
 * BIOS Version: M1AKT51A
